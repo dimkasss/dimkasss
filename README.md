@@ -18,21 +18,21 @@
 
 ### 📬 For business inquiries or just a friendly chat:
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="36" height="36" alt="Telegram"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/YOUR_PHONE">
+  <a href="https://wa.me/+381637543756">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/whatsapp.svg" width="36" height="36" alt="WhatsApp"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:spharde.god@gmail.com">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" width="36" height="36" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
+  <a href="https://t.me/dimqqqqq">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="36" height="36" alt="Telegram"/>
   </a>
+  &nbsp;
+  <!-- <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
+  </a> -->
 </p>
 
 
