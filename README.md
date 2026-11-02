@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me:
 - 🤓 I'm a Senior Software Engineer with 6+ years of experience
 - 🚀 I write daily: **.js**, **.ts**, **.tsx**
 - 🔥 Passionate about solving complex problems and building high-quality products
